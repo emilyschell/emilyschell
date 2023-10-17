@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyschell&label=Profile%20views&color=0e75b6&style=flat" alt="emilyschell" /> </p>
 
-- 🔭 I’m currently working on **a mobile development internship with Amazon Amp.**
+- 🔭 I’m currently working on **a cross-platform mobile learning app at Relias Learning.**
 
 - 👨‍💻 All of my projects are available at **emilyschell.me/portfolio**
 
-- 🌱 I’m currently learning **Swift, AWS, and agile/SCRUM practices**
+- 🌱 I’m currently learning **C# and .NET for back end development**
 
 - 📫 You can reach me at **lauraemilyschell@gmail.com**
-
-- 🤝 I’m looking for help with **troubleshooting the PHP email form for my website** emilyschell.me/contact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
